@@ -1,1 +1,3 @@
-f
+**Pizza Sales Dashboard**
+
+This project is an interactive dashboard designed to visualize pizza sales data. Built using SQL Server and Power BI, I extracted the data from SQL Server, performed ETL processes in Power BI, and created a dynamic and interactive dashboard for sales insights.
